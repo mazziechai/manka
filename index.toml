@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "217022fa465ee2eb5faff567ae5e9b5a996d7b481330ec7d195a80135d5050f7"
+
+[[files]]
+file = "README.md"
+hash = "af5bfe80280f544715acbb5290555772b908779ea9134dff709721f56085fe70"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "f0d1cb41c48aac8a140173abddbac39c61c4beab7aee44400083b73436c889f1"
 

@@ -1,4 +1,4 @@
-name = "ma pi musi Manka"
+name = "manka"
 author = "kulupu pi musi Manka"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ea1f54452c52aa7f759f51b61985116f3cb4f93cb271cb6da57cf337fbee7f99"
+hash = "78224fc98c45823cff8830232577d9d9f06cca143d4ef31d3fa1c6aa8390d4bf"
 
 [versions]
 fabric = "0.14.8"

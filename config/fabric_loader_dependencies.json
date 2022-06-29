@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "overrides": {
+        "fabric": {
+            "+depends": {
+                "fabricloader": ">=0.14.8"
+            },
+            "+recommends": {
+                "manka": "latest"
+            }
+        },
+        "debugify": {
+            "conflicts": {}
+        },
+        "cem": {
+            "recommends": {}
+        },
+        "colormatic": {
+            "recommends": {}
+        }
+    }
+}

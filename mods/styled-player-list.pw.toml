@@ -1,0 +1,13 @@
+name = "Styled Player List"
+filename = "styledplayerlist-2.2.1+1.19.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "be1a5b442ac6cb0563dff28710f72accaec04302"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821195
+project-id = 442282

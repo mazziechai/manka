@@ -1,0 +1,13 @@
+name = "ma pi musi Manka"
+author = "kulupu pi musi Manka"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ce88f9fc4d5c22d4e93a38ede225e1f829581708ffc8394849cc8fd50a7763e4"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"

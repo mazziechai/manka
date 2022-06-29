@@ -1,0 +1,90 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "f0d1cb41c48aac8a140173abddbac39c61c4beab7aee44400083b73436c889f1"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "70b2e9094c0b994dda54cac19ba6bdf5b2fef9825ac92bced71bc37a6cb036f2"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "b71e2eedb2d9b35060c5ec4c83e9579a989dcd77b9163b210ad35b6f21641be9"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+metafile = true
+
+[[files]]
+file = "mods/server-chat-history.pw.toml"
+hash = "94a91968df7e1b56b10853bd96917908d766349eb58e2de65bcaa7657bdb7788"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "268033e4d1ec567d28aad3bf9b1cf6cc66ab9d4f399af77a5b8e98d45b37fd79"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "b6b046ba8c5631ce50b92f3842883c12805c0f31676d44ed1e4d331916124169"
+metafile = true
+
+[[files]]
+file = "mods/styled-player-list.pw.toml"
+hash = "32e58ab9437684488e907138796843cf1ada1aac142d127ee4babb08d9ff7e61"
+metafile = true
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/.DS_Store"
+hash = "795746aef45e52bf6d29cbf135358d1a8b00fde2956a3cb5471a1910f433a9e9"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/.DS_Store"
+hash = "9e53e049506c8e9894962424a4188ea38c0fb098e5eef3fb76903f28e4356989"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/minecraft/.DS_Store"
+hash = "2d07d487ba16a82eb0f5882e5b68dd52579b33f189466a20dc4fd2cf20937c00"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/minecraft/font/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/minecraft/font/default.json"
+hash = "3498f23302019d20180cee882dd7b773a0c72e510eb8ff4494311e5f530a327f"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/minecraft/lang/.DS_Store"
+hash = "2563398bc8dc6f74c03b45278a8b02c8fc0cc287b8c21c0619661f87f015cdcd"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/minecraft/lang/tok.json"
+hash = "28c191cfdb00d6845c2ac664ae40b82b7ce61373ca5eeaca672a072d14fe8755"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/minecraft/textures/.DS_Store"
+hash = "bf85dfe6a455860b52fa0f589b7b7ea200e55d0b499f2c5c1ecd3c3c1248cee9"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/minecraft/textures/block/tnt_side.png"
+hash = "472272ad4dabcdee7427286716ea15b6213ea22d34c9c16adb31c87713bba78f"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/minecraft/textures/font/.DS_Store"
+hash = "3985dfefac04aec43854ee3da5baf2150d8db0a99a0a8676e491520942240841"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/assets/minecraft/textures/font/sitelen_pona.png"
+hash = "94653af8d78031d6fb02167daeb6a674d61df8e76596f17878c9e4c30c998257"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/pack.mcmeta"
+hash = "ae54cd2d63bd91bf3257d9c10e1c569995a5df8345ce3d98092bf57d156c6994"
+
+[[files]]
+file = "resourcepacks/poki pi sitelen pona (v3.1)/pack.png"
+hash = "984dfbac7af606332b23e255eafebd693b13efbdeadbc0af58fba96b99dc9ab2"

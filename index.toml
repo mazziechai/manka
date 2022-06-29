@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "b6b046ba8c5631ce50b92f3842883c12805c0f31676d44ed1e4d331916124169"
+hash = "64ae2d1d32b3daf42c728bd9f74bb6d4fffddc38b09dc9e76aac2b7d7f8ca74d"
 metafile = true
 
 [[files]]

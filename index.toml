@@ -135,6 +135,11 @@ hash = "f1012d69ed26a4b8b576106f556a1cf3cbded61a3580118792d4ebe9f9264892"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4deebf85ea442c1c37ee0dcdfea8b5be9105102ae88fc7dec0cff0752da1c1c7"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fe0fb406a9ba81b2e501d41db4606ed512687045e5c515481edc12b00119940e"
 metafile = true
@@ -270,6 +275,46 @@ hash = "cbedab2ca0ec5c65cbcb2e1c51c8cc638109b60d3774c3232534ccadda9b9335"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "b17ce1c86de7cf2b230e663513576bea860d33a46d264c8fc3a064a9d0a5edb2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "16b4df55e16a4de8527401b8a88a71b321dfd84b9284283cc9f3b069081a40e7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "0216d6a6d7045376c4202300966807909d45c8cb407970f791990df6b656c87b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "8dc993562a0066baf47ba7efa2c01ccaba6c6489a5dcabd7a379fe63cfbcf156"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "904ab87943a4d5ff3b37f9117ce9a08ea5bd453353477593541ff6caf5d30931"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "616b10a5004554570053c5334c9ff411c2225f42aa851496d7aa28fa8b8bf9bd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "c23daf6ad60470c69820e3b84589a2c20b7a37f8d9d641b22937d2ad0629fefe"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "d3b441fc147721fe2c498ccd17809ce2b5dc6d9714d33d66ef4e69d61e907e88"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "70f89a1865f7b6ba615807cc8212da1e52a37273cb02048881ebbf87a8d51355"
 metafile = true
@@ -322,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "29b8887bfa6d02773b797f8144ecf1522e398d7f3480cec9c2b948eee6989521"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "9ea66ba5aac5ac24271dda146a06b88c7c37f8d70d2f9996623be837b9f52c91"
 metafile = true
 
 [[files]]

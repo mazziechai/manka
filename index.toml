@@ -380,6 +380,11 @@ hash = "fd46f13cbbe09f4c0ec379f5755d07b1b92caf8824a27e6ddda9c44d2d11439e"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "2861c1590806812b74c297306309f4b371146497b96a7fd11cc583a37b663e55"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "5a8dffb24cfa7a23746b3fc2eb9ab2155d094eceb8346f527c7e1cf48bbe1512"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Plasmo Voice"
+filename = "plasmovoice-fabric-1.19-1.2.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "755f985c7ba35ee0c841f97d853b42545dd43a0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3838865
+project-id = 467028

@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/PlasmoVoice/bstats.json"
+hash = "43ae4c887bc1723478808a1acc122bbec5af2b4f19e0ba462bd87feddf8b5cd8"
+
+[[files]]
+file = "config/PlasmoVoice/server.yml"
+hash = "62443627c750287e082fa489d58266e9a09e5713469f09d67ba5e15b1f8f1fa7"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -137,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4deebf85ea442c1c37ee0dcdfea8b5be9105102ae88fc7dec0cff0752da1c1c7"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
 metafile = true
 
 [[files]]
@@ -345,6 +358,11 @@ hash = "c142ea1d12ea1cdd44f16218eb9e4b295f5e08cd7e3b6b79dc2c9cefd9a7f609"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "94bb0c9a377c9a1fea47cd9ad5a722b7d041ba11c896f5fd76fd20b6d08c603f"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "4b15d13c964eb4a28eb401eead1eba46e08e91f7d0204326c0b8f5183fbb4a4a"
 metafile = true
@@ -452,6 +470,11 @@ metafile = true
 [[files]]
 file = "mods/vanityslots.pw.toml"
 hash = "3b563d2a09d74f5660e570de831d30cb3e36999a611b0d9310670697bd96b2b0"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "b554333a1f62f84f6dd5e25aa64d5398fd7d15477c7b87a520a9f41de7342ee0"
 metafile = true
 
 [[files]]

@@ -160,11 +160,6 @@ hash = "9900ca7501a0cedb1cb1292fb51250c1820f4cc1dc6b7d572824a18738e118de"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-legacy.pw.toml"
-hash = "fffed2601086c1608d24792429d3c34958f9b85c5de130b14e771fa95d8c0070"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "cf897a14537e23af6a7dab198d40a14a53580d3c072d15ebb60008efd5db5350"
 metafile = true
@@ -427,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
-metafile = true
-
-[[files]]
-file = "mods/structure-tools.pw.toml"
-hash = "ab53ee927321b11dec3953e8ddf00facafe6149af5a86d65b57e3268123e3042"
 metafile = true
 
 [[files]]

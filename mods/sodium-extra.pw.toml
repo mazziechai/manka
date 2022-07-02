@@ -1,6 +1,6 @@
 name = "Sodium Extra"
 filename = "sodium-extra-0.4.5+mc1.19-build.43.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

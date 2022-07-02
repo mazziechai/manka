@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/PlasmoVoice/bstats.json"
-hash = "43ae4c887bc1723478808a1acc122bbec5af2b4f19e0ba462bd87feddf8b5cd8"
-
-[[files]]
 file = "config/PlasmoVoice/server.yml"
 hash = "bc6b741fe3899718f3c50ba1f29a2c024eec6815911eadf54f420979c8528425"
 
@@ -114,7 +110,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8cf4e887764bc764235990460c9214a000bd434d47839d240656803cd809bee4"
+hash = "53de6f136bcbfddecaa3e1a0003b6ec0eb370397f5aa884569ae085c21409535"
 
 [[files]]
 file = "mods/adorn.pw.toml"

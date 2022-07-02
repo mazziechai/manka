@@ -45,6 +45,10 @@ file = "config/styled-nicknames.json"
 hash = "b71e2eedb2d9b35060c5ec4c83e9579a989dcd77b9163b210ad35b6f21641be9"
 
 [[files]]
+file = "config/symbol-chat.json"
+hash = "69e1a2ecccfaa554e0266e24bb61d1d14ad9a0add5229d48ae9ffcc95e210319"
+
+[[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
 
@@ -458,6 +462,11 @@ hash = "32e58ab9437684488e907138796843cf1ada1aac142d127ee4babb08d9ff7e61"
 metafile = true
 
 [[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "3c2c3206e5017c7a35676870c5d3c23b5f0dc979b7d757e2399bd241249c6ce6"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "5520c1dc76ba02ac7ab0648ca5facc2e5e65e6f98b5bc1c9b95d6f8be8280238"
 metafile = true
@@ -486,10 +495,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "bdd6836216af0ecba546d073141d38552180d49d6ea8b0e203bd7f62537d5666"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "2d35bdf4a908abe1f1b1ac121709ad61167e17d37746dabf820d9015d41340f1"
 
 [[files]]
 file = "resourcepacks/poki pi sitelen pona (v3.1)/.DS_Store"
@@ -541,4 +546,48 @@ hash = "ae54cd2d63bd91bf3257d9c10e1c569995a5df8345ce3d98092bf57d156c6994"
 
 [[files]]
 file = "resourcepacks/poki pi sitelen pona (v3.1)/pack.png"
+hash = "984dfbac7af606332b23e255eafebd693b13efbdeadbc0af58fba96b99dc9ab2"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/.DS_Store"
+hash = "795746aef45e52bf6d29cbf135358d1a8b00fde2956a3cb5471a1910f433a9e9"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/assets/.DS_Store"
+hash = "9e53e049506c8e9894962424a4188ea38c0fb098e5eef3fb76903f28e4356989"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/assets/minecraft/.DS_Store"
+hash = "2d07d487ba16a82eb0f5882e5b68dd52579b33f189466a20dc4fd2cf20937c00"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/assets/minecraft/font/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/assets/minecraft/font/default.json"
+hash = "3498f23302019d20180cee882dd7b773a0c72e510eb8ff4494311e5f530a327f"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/assets/minecraft/textures/.DS_Store"
+hash = "bf85dfe6a455860b52fa0f589b7b7ea200e55d0b499f2c5c1ecd3c3c1248cee9"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/assets/minecraft/textures/block/tnt_side.png"
+hash = "472272ad4dabcdee7427286716ea15b6213ea22d34c9c16adb31c87713bba78f"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/assets/minecraft/textures/font/.DS_Store"
+hash = "3985dfefac04aec43854ee3da5baf2150d8db0a99a0a8676e491520942240841"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/assets/minecraft/textures/font/sitelen_pona.png"
+hash = "94653af8d78031d6fb02167daeb6a674d61df8e76596f17878c9e4c30c998257"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/pack.mcmeta"
+hash = "ae54cd2d63bd91bf3257d9c10e1c569995a5df8345ce3d98092bf57d156c6994"
+
+[[files]]
+file = "resourcepacks/sitelen pona font/pack.png"
 hash = "984dfbac7af606332b23e255eafebd693b13efbdeadbc0af58fba96b99dc9ab2"

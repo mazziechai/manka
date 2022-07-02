@@ -6,7 +6,7 @@ hash = "43ae4c887bc1723478808a1acc122bbec5af2b4f19e0ba462bd87feddf8b5cd8"
 
 [[files]]
 file = "config/PlasmoVoice/server.yml"
-hash = "62443627c750287e082fa489d58266e9a09e5713469f09d67ba5e15b1f8f1fa7"
+hash = "bc6b741fe3899718f3c50ba1f29a2c024eec6815911eadf54f420979c8528425"
 
 [[files]]
 file = "config/citresewn.json"

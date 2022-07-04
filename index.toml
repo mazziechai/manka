@@ -218,6 +218,11 @@ hash = "bb1f90cf3a4752bfe60f767130364ab76f698d3ca74853397d2b7fe8c1d65892"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "e35ae0932c1041031992ae36f60f7142aa9568912f81a26db27e679686073d70"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "545d1ec36b7bca2653eeb4e72c32fe325e2f3c7719df0bb28b4af34ad68a073a"
 metafile = true

@@ -478,6 +478,11 @@ hash = "3b563d2a09d74f5660e570de831d30cb3e36999a611b0d9310670697bd96b2b0"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "672aca2c7eb7c36fc709ae2812e3d67157937744edf7368e8b694ad06b22ab61"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "b554333a1f62f84f6dd5e25aa64d5398fd7d15477c7b87a520a9f41de7342ee0"
 metafile = true

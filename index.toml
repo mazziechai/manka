@@ -153,8 +153,18 @@ hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "a3b34a8efbc9099eb420e8a0af02196131235d877bbcbe277c19ac4b433a9bef"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "c51b2debf279f00698763034cbab2694984838529ac30ec51d865ce33d106270"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "4042a82c3fbeef37d2927a7673de90668e891d232205229c60a9669ad7bfb7c5"
 metafile = true
 
 [[files]]

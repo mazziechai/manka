@@ -2,6 +2,11 @@ name = "FabricTailor"
 filename = "fabrictailor-1.8.4.jar"
 side = "server"
 
+[option]
+optional = true
+default = false
+description = "Allows changing your skin in-game"
+
 [download]
 hash-format = "sha1"
 hash = "cfcb141d6a8e64f4af5dbe8e25639a0471c6af6c"

@@ -243,11 +243,6 @@ hash = "cf692370800647dd2b9dc1b336bdbfc2c78cc8795f0e68552c9bdd95f691080e"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
-metafile = true
-
-[[files]]
 file = "mods/fabric-chisel.pw.toml"
 hash = "1fb7b679e08edeeb5d9720521ffd5966a67a38c9ee2ff7b8013ac9254cd93fb6"
 metafile = true
@@ -259,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "46647e56421158a820e9c91b1dfaf0656b02fce46fb09edbab3f1b654321863f"
+hash = "0d8d3a9b17963fc70399aaf7eb2b1484a4616be79cb5d8485475c9acb960c0f5"
 metafile = true
 
 [[files]]
@@ -425,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a567997573ada79f27f020cdcd7b730eae2d7542995aea72acfb554b38c93fe5"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "4f730ed9fd6b369757e075684c16b8fcf853c692aa9b2cc4d30038d37c086aee"
 metafile = true
 
 [[files]]

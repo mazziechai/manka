@@ -278,6 +278,10 @@ hash = "90934a8f07aad60a6a696e2b63db60f4aa0a5439b89fea95fcd0a100d526da6b"
 metafile = true
 
 [[files]]
+file = "mods/ilo_ma-0.1.0+1.19.jar"
+hash = "a9a9d56efe21059a16103aba3e280f1245948b30a25f3024c5d519192598de61"
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e496db6878475e0cd41a2178ce354999574f2c8c47e27a7f0dc488e30edb3fb8"
 metafile = true

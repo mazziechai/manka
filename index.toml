@@ -518,6 +518,18 @@ hash = "d61c0658bc7346a7c637476c5fa38fc0193202ea3a9f6345a49a763de686676c"
 metafile = true
 
 [[files]]
+file = "patchouli_books/manka/book.json"
+hash = "d6d5bffb8625043800c5e1830b2d1a957008cba170a4b0068503aa1b0b093d2b"
+
+[[files]]
+file = "patchouli_books/manka/en_us/categories/poki.json"
+hash = "7673466dd37a4ea3e0ebc08cbb9e62ebdb98530e84f78c188fefc607321b1260"
+
+[[files]]
+file = "patchouli_books/manka/en_us/entries/lawa.json"
+hash = "3ab1f6eab3cbb93e83d50d30e2c5b25a271dc0b73a59f4697e0fa4a689c6ead1"
+
+[[files]]
 file = "resourcepacks/poki pi sitelen pona (v4)/assets/minecraft/font/default.json"
 hash = "3498f23302019d20180cee882dd7b773a0c72e510eb8ff4494311e5f530a327f"
 

@@ -1,0 +1,15 @@
+{
+    "name": "lawa",
+    "category": "patchouli:poki",
+    "icon": "minecraft:writable_book",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(bold)o toki pona taso.$(li2)$()toki Inli li ken lon ma pi ilo Siko. taso, o toki pona lon tenpo suli.$(br)$(li)$(bold)o pakala ala e pali pi jan ante.$(li2)$()sina wile ante e pali ante la o alasa sona e wile pi jan pali."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(bold)musi li musi taso.$(li2)$()o utala ala lon ala musi Manka tan ni: sina utala lon musi. utala li kama lon musi. ni la o ike ala e pilin sina.$(br)$(li)$(bold)sina ken ala musi lon tenpo mute la o musi ala lon ma ni.$(li2)$()mama pi ma ni li awen pali mute e musi pona tawa sina ale. taso, sina ken ala musi e ni la mama li wile ala e ni: pali mama li kama kepeken ala."
+        }
+    ]
+}
